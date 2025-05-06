@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Exo2-Regular.ttf</string>
+		<string>Exo2-Bold.ttf</string>
+		<string>Exo2-SemiBold.ttf</string>
+		<string>Exo2-Medium.ttf</string>
+		<string>Exo2-Light.ttf</string>
+		<string>Exo2-ExtraLight.ttf</string>
+		<string>OpenSans-Regular.ttf</string>
+		<string>OpenSans-Bold.ttf</string>
+		<string>OpenSans-SemiBold.ttf</string>
+		<string>OpenSans-Medium.ttf</string>
+		<string>OpenSans-Light.ttf</string>
+		<string>PTSerif-Bold.ttf</string>
+	</array>
+</dict>
+</plist>
